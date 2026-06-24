@@ -1,0 +1,1 @@
+# Beat Design System — Instalador
